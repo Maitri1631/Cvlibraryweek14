@@ -1,0 +1,2 @@
+2023-02-15 20:02:701 INFO  HomePage :69 - getting text from : [[ChromeDriver: chrome on WINDOWS (8b901c2afdfea63928a2a427c190546a)] -> xpath: //h1[@class='search-header__title']]
+2023-02-15 20:02:307 INFO  HomePage :69 - getting text from : [[ChromeDriver: chrome on WINDOWS (5cbd54802f89f8e59fcc148580cda226)] -> xpath: //h1[@class='search-header__title']]
